@@ -1,0 +1,13 @@
+name: FlightDashboard
+title: FlightDashboard
+username:
+account: austin-liu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 301442
+bundleId: 1274404
+url: https://austin-liu.shinyapps.io/FlightDashboard/
+when: 1521351735.99538
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: DataPrep.R|ui.R|test/connection.R|test/Untitled.R
